@@ -43,4 +43,4 @@ Download the file **concurro.apk**.
 - **Access to Sensors:** Camera, GPS, Location, Accelerometer.  
 - **Internet access required.**  
 
-🚀
+
