@@ -1,4 +1,4 @@
-Here is the English translation of your text:
+
 
 ---
 
@@ -43,4 +43,4 @@ Download the file **concurro.apk**.
 - **Access to Sensors:** Camera, GPS, Location, Accelerometer.  
 - **Internet access required.**  
 
-Let me know if you need any adjustments! 🚀
+🚀
