@@ -8,7 +8,7 @@
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
 
-        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyA1HQnt2TvfmbiBBVh8PGaE_cw5MVdu9_A"/>
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="YOUR_API_KEY"/>
 
         <meta-data
             android:name="dev.fluttercommunity.shake_gesture_android.SHAKE_FORCE"
