@@ -39,7 +39,7 @@ Download the file **concurro.apk**.
 
 ### **System Requirements:**  
 - **Android SDK Version:** 33 (Android 13).  
-- **Google Maps API Support:** An API Key is already preloaded, so no action is required from the user.  
+- **Google Maps API Support:** An API Key must be loaded.  
 - **Access to Sensors:** Camera, GPS, Location, Accelerometer.  
 - **Internet access required.**  
 
